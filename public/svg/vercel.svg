@@ -1,6 +1,1 @@
-<svg data-testid="geist-icon" fill="none" height="24" shape-rendering="geometricPrecision" stroke="currentColor"
-  stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" width="24"
-  style="color:var(--geist-foreground)">
-  <path fill-rule="evenodd" clip-rule="evenodd" d="M12 2L2 19.7778H22L12 2Z" fill="currentColor" stroke="currentColor"
-    stroke-width="1.5" />
-</svg>
+<svg width="24" height="24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" data-testid="geist-icon" shape-rendering="geometricPrecision" viewBox="0 0 24 24" style="color:var(--geist-foreground)"><path fill="currentColor" fill-rule="evenodd" stroke="currentColor" stroke-width="1.5" d="M12 2L2 19.7778H22L12 2Z" clip-rule="evenodd"/></svg>
